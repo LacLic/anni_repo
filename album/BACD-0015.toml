@@ -1,0 +1,129 @@
+[album]
+album_id = "f0921481-cfb7-4c01-9584-a1e436a9e0e4"
+title = "]Blue Archive Original Soundtrack Vol.6 ～Keeping for the abiding belief～Original Soundtrack Vol.6 ～Keeping for the abiding belief～"
+artist = "Nor、YUC'e、Aiobahn、EmoCosine、7mai、KARUT、ミツキヨ"
+date = 2024-07-22
+type = "instrumental"
+catalog = "@BACD-0015-1~2"
+tags = [
+    "Blue Archive",
+    "OST",
+]
+
+[[discs]]
+catalog = "@BACD-0015-1~2"
+
+[[discs.tracks]]
+title = "Usagi Flap"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Unwelcome Guest"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Fall into the rabbit hole"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Operation☆DOTABATA!"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Noble Hallway"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Trigger For Ambition"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Kitsunebi"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Up to 21°C"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Hidden Treasure"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Hunter Bible"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Takaramonogatari"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Tok9 Train"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Ramune Lagoon"
+artist = "YUC'e"
+
+[[discs.tracks]]
+title = "Summer Attack!"
+artist = "EmoCosine"
+
+[[discs]]
+catalog = "@BACD-0015-1~2"
+
+[[discs.tracks]]
+title = "Blooming moon"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Utaha No Uta"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Cherry Berry Merry"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Container Corner"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "HIGH-VELOCITY"
+artist = "Aiobahn"
+
+[[discs.tracks]]
+title = "Indoor Outdoor"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Action 68"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Dreaming Trip"
+artist = "EmoCosine"
+
+[[discs.tracks]]
+title = "F1ghtback"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Chilling Out"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Starry Confession"
+artist = "Synthion"
+
+[[discs.tracks]]
+title = "Ridiculous"
+artist = "7mai"
+
+[[discs.tracks]]
+title = "Yumeji Party"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Serene Scenario"
+artist = "ミツキヨ"
